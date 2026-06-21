@@ -1,1 +1,1 @@
-# House-price-prediction
+# bengaluru-house-price-predictor
